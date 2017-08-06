@@ -802,7 +802,7 @@ $(document).ready(function(){
 
                     background: 'white',
 
-                    opacity: .97
+                    opacity: .99
 
                 },
 
