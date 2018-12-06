@@ -4,6 +4,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+body,html{ height:100%;}
+
 ul, li {
     display: block;
     padding: 0;
@@ -38,12 +40,12 @@ a:hover {
     color: #263238;
     font-weight: 700;}
 
-.offer {
+/*.offer {
     position: absolute;
     top: 50%;
     margin-top: 20%;
     margin-bottom: 20%;
-}
+}*/
 
 .offer__title {
     font-size:20px;
@@ -117,7 +119,8 @@ margin-left: 30%;
     
     #lleft {
         margin-left: 0;
-        margin-right: 4.2%;
+        margin-right: 0;
+        /*margin-right: 4.2%;*/
     }
 
     .offer {
