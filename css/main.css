@@ -114,6 +114,14 @@ a:hover {
 margin-left: 30%;
 }
 
+/* Donate */
+
+.dnt_btn {
+    position: fixed; /* Фиксированное положение */
+    right: 10px; /* Расстояние от правого края окна браузера */
+    bottom: 10px; /* Расстояние сверху */
+   }
+
 /* Медиа-запросы */
 
 @media screen and (max-width: 992px) {
